@@ -1,3 +1,17 @@
-Проверить переход на сайт mem.com по клику на картинку в верхнем правом угла сайта - Работает,
-Зайти в личный кабинет по логину и паролю - Работает,
-Проверить оповещение о возможной блокировке после ввода неправильных учетных данных более трех раз - Не работает
+Summary - Payment on the site using Google Pay
+Project - www.onlineshop.ru
+Componet - Payment Window
+Version - 1.05
+Severety - S3
+Priority - P1
+Status - Open
+Author - Vlaimir K.
+Assigned to - Alex D.
+Environment - Browser Google Chrome v 98.0.4758.102(64 bit)
+Steps - 1.Open website www.onlineshop.ru
+        2.Add goods to shopping cart
+        3.Сhoose google pay for payment
+        4.Login to your google pay account
+
+Result - User cannot login in to account, because in the authorization window there is no line for entering a password
+Expected Result - User can pay for order using Google Pay
